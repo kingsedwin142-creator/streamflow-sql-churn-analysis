@@ -1,0 +1,2 @@
+sample_subscribers,churned_subscribers,not_churned_subscribers,observed_churn_percent,active_monthly_plan_value_usd,churned_monthly_plan_value_usd,nominal_monthly_fees_all_sample_usd,countries_in_sample,genres_in_sample
+2500,739,1761,29.56,24828.39,10400.61,35229.00,18,8

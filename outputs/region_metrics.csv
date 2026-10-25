@@ -1,0 +1,5 @@
+segment,subscribers,churned,not_churned,churn_percent,active_monthly_plan_value_usd
+Europe,1062,327,735,30.79,10416.65
+North America,1058,307,751,29.02,10552.49
+Latin America,271,77,194,28.41,2682.06
+Asia-Pacific,109,28,81,25.69,1177.19

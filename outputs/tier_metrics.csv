@@ -1,0 +1,4 @@
+segment,subscribers,churned,not_churned,churn_percent,active_monthly_plan_value_usd
+Standard,779,248,531,31.84,8490.69
+Basic,1163,338,825,29.06,8241.75
+Premium,558,153,405,27.42,8095.95

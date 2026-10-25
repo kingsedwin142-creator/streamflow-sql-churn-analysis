@@ -1,0 +1,9 @@
+segment,subscribers,churned,not_churned,churn_percent,active_monthly_plan_value_usd
+Documentary,278,91,187,32.73,2636.13
+Drama,312,101,211,32.37,2965.89
+Reality TV,303,96,207,31.68,2915.93
+Romance,315,96,219,30.48,3109.81
+Thriller,296,86,210,29.05,2907.90
+Sci-Fi,322,92,230,28.57,3431.70
+Comedy,308,86,222,27.92,3091.78
+Sports,366,91,275,24.86,3769.25

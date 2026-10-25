@@ -1,0 +1,6 @@
+segment,subscribers,churned,not_churned,churn_percent,active_monthly_plan_value_usd
+00-07 days,120,40,80,33.33,1167.20
+08-30 days,333,76,257,22.82,3645.43
+31-60 days,395,113,282,28.61,3905.18
+61-90 days,422,125,297,29.62,4157.03
+91+ days,1230,385,845,31.3,11953.55

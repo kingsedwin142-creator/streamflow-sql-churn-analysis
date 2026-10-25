@@ -1,0 +1,4 @@
+segment,subscribers,churned,not_churned,churn_percent,active_monthly_plan_value_usd
+Payment issue + inactive >90d,239,91,148,38.08,2166.52
+Very low engagement (<=20),251,85,166,33.86,2300.34
+Other subscribers,2010,563,1447,28.01,20361.53
