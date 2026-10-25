@@ -23,7 +23,6 @@ The analysis uses joins, `CASE` statements, aggregations, CTEs and window functi
 * **Content:** Subscribers whose most-watched genre is Sports have the lowest observed churn (**24.86%**). Documentary is at **32.73%**.
 * **Payment and inactivity:** Of 239 subscribers with payment issues who had not logged in for over 90 days, 91 are marked as churned (**38.08%**).
 
-!\[Churn by subscription tier](assets/churn\_by\_tier.png)
 
 ## What I took from the results
 
